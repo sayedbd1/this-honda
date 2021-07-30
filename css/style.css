@@ -1,0 +1,55 @@
+.nav-item {
+	margin-right: 47px;
+}
+.btn.login-btn {
+	color: #fff;
+	background: #E76F51;
+	padding: 4px 10px;
+	font-weight: 700;
+	margin-top: 5px;
+}
+.btn-primary.banner-btn {
+	color: #fff;
+	background-color: #E76F51;
+
+}
+.btn.btn-banner {
+	color: #fff;
+	background: #E76F51;
+	padding: 6px 32px;
+	font-weight: 700;
+}
+
+.btn.btn-read1 {
+	border: 1px solid orange;
+    color: orange;
+    transition: .3s;
+    font-weight: 700;
+}
+.btn.btn-read1:hover {
+    color: #fff;
+    background: orange;
+}
+span.clinet-color{
+    color: orange;
+    font-weight: 700;
+}
+.btn.btn-honda{
+    color: #fff;
+    background: orange;
+} 
+.heading-title{
+    position: relative;
+}
+.heading-title:before{
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: 82px;
+    background: orange;
+    bottom: -4px;
+    left: 46%;
+}
+
+
+
